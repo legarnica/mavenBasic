@@ -11,6 +11,9 @@
 + Llamamos a esta clase con el nombre de `Saludo` y finalizamos. 
 + El código de la clase debería ser el siguiente: 
 
+
+```java
+
 package mavenBasic;
 
 public class Saludo {
@@ -20,6 +23,10 @@ public class Saludo {
     }
 
 }
+
+```
+
+
 
 + Guardamos y compilamos. 
 + Finalmente hacemos el `add` y el `push`.
